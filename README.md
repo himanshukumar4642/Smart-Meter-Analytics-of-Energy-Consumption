@@ -8,7 +8,7 @@
 
 [nbviewer](https://nbviewer.ipython.org/github/Ami-Solution/MachineLearning-Smart-Meter-Analytics/blob/master/notebook/1_loading_data_and_visualization.ipynb)
 
-This repository contains the Jupyter notebooks of the intriguing physical constants ratios that are at play in micro-physics and cosmology of [*Jupyter-Notebook-MachineLearning-Smart-Meter-Analytics(2018)*](https://www.packtpub.com/big-data-and-business-intelligence/-first-e/ https://zenodo.org/badge/latestdoi/158677063), by LaGuer/F.M.Sanchez/D.G, *Packt Publishing*.
+This repository contains the Jupyter notebooks of the intriguing physical constants ratios that are at play in Advanced Metering Infrstructure Analytics of [*Jupyter-Notebook-MachineLearning-Smart-Meter-Analytics(2018)*](https://www.packtpub.com/big-data-and-smart-meter/-first-e/ https://zenodo.org/badge/latestdoi/), by Ami-Solution, *Packt Publishing*.
 
 This repository is read-only: the source files are on the [Jupyter-Notebook-MachineLearning-Smart-Meter-Analytics](https://github.com/Ami-Solution/MachineLearning-Smart-Meter-Analytics) repository.
 
