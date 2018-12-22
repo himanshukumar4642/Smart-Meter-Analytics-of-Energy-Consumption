@@ -1,6 +1,4 @@
-# MachineLearning-Smart-Meter-Analytics
-
-# Code of the Jupyter-Notebook-Practice-Physical-Constants-Ratios (2018)
+# MachineLearning-Smart-Meter-Analytics (2018)
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Ami-Solution/MachineLearning-Smart-Meter-Analytics/master)
 
