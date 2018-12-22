@@ -4,9 +4,9 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Ami-Solution/MachineLearning-Smart-Meter-Analytics/master)
 
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ami-Solution/MachineLearning-Smart-Meter-Analytics/blob/master/Jupyter-Notebook%20Practice%20Physical%20Constants%20Ratios.ipynb)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ami-Solution/MachineLearning-Smart-Meter-Analytics/blob/master/notebook/1_loading_data_and_visualization.ipynb)
 
-[nbviewer](https://nbviewer.ipython.org/github/Ami-Solution/MachineLearning-Smart-Meter-Analytics/blob/master/Jupyter-Notebook%20Practice%20Physical%20Constants%20Ratios.ipynb)
+[nbviewer](https://nbviewer.ipython.org/github/Ami-Solution/MachineLearning-Smart-Meter-Analytics/blob/master/notebook/1_loading_data_and_visualization.ipynb)
 
 This repository contains the Jupyter notebooks of the intriguing physical constants ratios that are at play in micro-physics and cosmology of [*Jupyter-Notebook-MachineLearning-Smart-Meter-Analytics(2018)*](https://www.packtpub.com/big-data-and-business-intelligence/-first-e/ https://zenodo.org/badge/latestdoi/158677063), by LaGuer/F.M.Sanchez/D.G, *Packt Publishing*.
 
